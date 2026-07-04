@@ -1,0 +1,4 @@
+OrderID,CustomerID,ProductID,Quantity,OrderDate,Payment
+1001,101,1,1,2025-01-10,UPI
+1002,102,3,2,2025-02-15,Card
+1003,101,2,1,2025-03-02,Cash
