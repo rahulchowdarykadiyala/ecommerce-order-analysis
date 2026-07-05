@@ -51,4 +51,4 @@ python analysis.py
 ![Payment](images/chart3.png)
 
 
-![top sales](imaged/chart4.png)
+![top sales](images/chart4.png)
