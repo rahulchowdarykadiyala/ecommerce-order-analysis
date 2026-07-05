@@ -43,25 +43,12 @@ python analysis.py
 ### 📊 Revenue by City
 ![City Revenue](images/chart2.png)
 
-### 📊 Payment Methods
-![Payment]## 📷 Output Screenshots
 
-### 📊 Top Products
-![Top Products](images/chart1.png)
 
-### 📊 Revenue by City
-![City Revenue](images/chart2.png)
+
 
 ### 📊 Payment Methods
 ![Payment](images/chart3.png)
 
-## 📷 Output Screenshots
 
-### 📊 Top Products
-![Top Products](images/chart1.png)
-
-### 📊 Revenue by City
-![City Revenue](images/chart2.png)
-
-### 📊 Payment Methods
-![Payment](images/chart3.png)
+![top sales](imaged/chart4.png)
